@@ -1,0 +1,3 @@
+In order to use the program you can use an online c++ compiler (such as https://www.onlinegdb.com/online_c++_compiler or https://www.programiz.com/cpp-programming/online-compiler/) and either copy and paste the contents of Abstract-syntax.cpp into the compiler, or import the Abstract-syntax.cpp file, and then run it.
+
+Another, more complicated, option is to install a c++ compiler such as Microsoft Visual Studio 2022 ( https://visualstudio.microsoft.com/vs/ ) then import and run the program there.
